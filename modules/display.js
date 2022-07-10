@@ -14,4 +14,4 @@ const displayContact = () => {
   document.querySelector('.contact').style.display = 'block';
 };
 
-export { isplayList, displayAdd, displayContact };
+export { displayList, displayAdd, displayContact };

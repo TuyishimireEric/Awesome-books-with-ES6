@@ -26,6 +26,6 @@ const clearFields = () => {
   document.querySelector('#author').value = '';
 };
 
-export { 
-  displayBooks, addBookToList, deleteBook, clearFields 
+export {
+  displayBooks, addBookToList, deleteBook, clearFields,
 };

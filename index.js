@@ -1,6 +1,6 @@
 import { addBook } from './modules/localstorage.js';
-import { 
-  displayBooks, addBookToList, deleteBook, clearFields 
+import {
+  displayBooks, addBookToList, deleteBook, clearFields,
 } from './modules/add-remove.js';
 import { displayList, displayAdd, displayContact } from './modules/display.js';
 
