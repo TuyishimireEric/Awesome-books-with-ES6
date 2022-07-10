@@ -9,7 +9,7 @@ Project image
 - JS
 ## Live Demo
 
-[Awesome books]()
+[Awesome books](https://tuyishimireeric.github.io/Awesome-books-with-ES6/)
 
 ## Getting Started
 
@@ -27,21 +27,21 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-Here is the online version of [Awesome Books]()
+Here is the online version of [Awesome Books](https://tuyishimireeric.github.io/Awesome-books-with-ES6/)
 
 ## Author
 
 👤 **Eric Tuyishimire**
 
--GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
--Twitter: [@Tuyishimire Eric](https://twitter.com/TuyishimireEric)
--E-mail: tuyishimireericc@gmail.com
+- GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
+- Twitter: [@Tuyishimire Eric](https://twitter.com/TuyishimireEric)
+- E-mail: tuyishimireericc@gmail.com
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/TuyishimireEric/Awesome-books-with-ES6/issues).
 
 ## Show your support
 
