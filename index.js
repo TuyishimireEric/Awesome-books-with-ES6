@@ -1,3 +1,4 @@
+import { DateTime } from '../node_modules/luxon/src/luxon.js';
 import { addBook } from './modules/localstorage.js';
 import {
   displayBooks, addBookToList, deleteBook, clearFields,
@@ -37,3 +38,5 @@ document.querySelector('.displayAdd').addEventListener('click', () => {
 document.querySelector('.displayContact').addEventListener('click', () => {
   displayContact();
 });
+
+document.querySelector('.time').innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_FULL);

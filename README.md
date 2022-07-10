@@ -1,5 +1,5 @@
 # Awesome books: with ES6
-This is an Awesome Booklist project. This project allows the user to add or remove a book from the list and the books to be stored on the localstorage.
+In this project, I have Re-created the Awesome books app. The goal was to make it more organized by using modules. And also made practice with the ES6 syntax that we have learned.
 
 Project image
 ![Awesome-Books](Awesome-Books.png)
