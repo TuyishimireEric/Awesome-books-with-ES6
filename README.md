@@ -17,7 +17,7 @@ To get a local copy up and running:
 
 1. Clone this repository or download the zip folder:
 
-**``git clone https://github.com/HtetNaing0814/awesome-books.git``**
+**``git@github.com:TuyishimireEric/Awesome-books-with-ES6.git``**
 
 2. Navigate to the location of the folder in your machine:
 
