@@ -1,5 +1,4 @@
-// eslint-disable-next-line
-import { DateTime } from '../node_modules/luxon/src/datetime.js';
+import { DateTime } from './modules/luxon.js';
 import { addBook } from './modules/localstorage.js';
 import {
   displayBooks, addBookToList, deleteBook, clearFields,
